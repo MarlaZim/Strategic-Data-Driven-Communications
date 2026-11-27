@@ -2,7 +2,7 @@
 
 ### Microsoft Schweiz – Strategisches Kommunikationsmanagement
 
-Universität Hohenheim | Masterprojekt | 2025/2026
+Universität Hohenheim | Seminarprojekt | 2025
 
 ## Über das Projekt
 
