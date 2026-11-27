@@ -27,3 +27,5 @@ Kommunikationsstrategie am Beispiel von Microsoft Schweiz.
 Akademisches Gruppenprojekt im Rahmen des Masterstudiums
 Kommunikationsmanagement und -analyse an der Universität
 Hohenheim. Kein offizielles Microsoft-Projekt.
+
+![Projektvorschau](Preview.png)
