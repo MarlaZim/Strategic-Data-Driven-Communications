@@ -1,2 +1,29 @@
-# Strategic-Data-Driven-Communications
-Entwicklung einer daten- und technologiegestützten Kommunikationsstrategie am Beispiel von Microsoft Schweiz. Fokus auf Stakeholder Management, Customer Journey, CommTech und strategische Wirkungsmessung anhand des AMEC-Frameworks.
+# Strategic Data Driven Communications
+
+### Microsoft Schweiz – Strategisches Kommunikationsmanagement
+
+Universität Hohenheim | Masterprojekt | 2025/2026
+
+## Über das Projekt
+
+Entwicklung einer daten- und technologiegestützten
+Kommunikationsstrategie am Beispiel von Microsoft Schweiz.
+
+## Thematische Schwerpunkte
+
+- Strategisches Kommunikationsmanagement
+- Stakeholder Management
+- Customer Journey
+- Communication Technology (CommTech)
+- Strategische Wirkungsmessung (AMEC)
+- Künstliche Intelligenz
+
+## Projektpräsentation
+
+[Zur vollständigen Präsentation (PDF)](Abgabe_Portfolio1.pdf)
+
+## Projektkontext
+
+Akademisches Gruppenprojekt im Rahmen des Masterstudiums
+Kommunikationsmanagement und -analyse an der Universität
+Hohenheim. Kein offizielles Microsoft-Projekt.
